@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    Untuk aplikasi Jetpack Compose, file ini bisa dibuat sangat sederhana.
+    Pengaturan tema utama (theming) sekarang dikelola sepenuhnya di dalam file ui.theme/Theme.kt.
+    Style ini digunakan untuk launch screen dan system bar sebelum Composable mengambil alih.
+    -->
+    <style name="Theme.Dompetcerdas" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

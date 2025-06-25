@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Warna Tema Utama -->
+    <color name="primary">#007AFF</color> <!-- Biru cerah -->
+    <color name="primary_dark">#0056B3</color> <!-- Biru lebih gelap -->
+    <color name="accent">#FFB900</color> <!-- Kuning untuk aksen -->
+
+    <!-- Warna Teks -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+
+    <!-- Warna Transaksi -->
+    <color name="income">#28A745</color> <!-- Hijau untuk pemasukan -->
+    <color name="expense">#DC3545</color> <!-- Merah untuk pengeluaran -->
+</resources>

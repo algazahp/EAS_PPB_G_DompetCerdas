@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dompet Cerdas</string>
+    <string name="total_balance">Total Saldo</string>
+    <string name="recent_transactions">Transaksi Terakhir</string>
+    <string name="financial_insight">Insight Keuangan</string>
+    <string name="income">Pemasukan</string>
+    <string name="expense">Pengeluaran</string>
+</resources>
