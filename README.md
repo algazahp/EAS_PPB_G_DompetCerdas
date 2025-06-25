@@ -1,6 +1,9 @@
 Pemrograman Perangkat Bergerak (G)
+
 Made Daryl Adi Nugraha		/	5025221008
+
 Al Dhihya Gaza Halim Putra 	/	5025221288
+
 Alendra Rafif Athaillah		/	5025221297
 
 DompetCerdas
