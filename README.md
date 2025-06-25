@@ -5,4 +5,5 @@ Pemrograman Perangkat Bergerak (G)
 - Alendra Rafif Athaillah		/	5025221297
 
 DompetCerdas
-	DompetCerdas adalah aplikasi pintar untuk mengelola keuangan dengan mudah dan aman. Lakukan transfer, isi saldo, bayar dengan QR code, kelola kartu kredit, dan atur anggaran melalui fitur dompet-dompet terpisah. Dapatkan insight pengeluaran yang membantu mengambil keputusan finansial yang lebih cerdas.
+
+DompetCerdas adalah aplikasi pintar untuk mengelola keuangan dengan mudah dan aman. Lakukan transfer, isi saldo, bayar dengan QR code, kelola kartu kredit, dan atur anggaran melalui fitur dompet-dompet terpisah. Dapatkan insight pengeluaran yang membantu mengambil keputusan finansial yang lebih cerdas.
